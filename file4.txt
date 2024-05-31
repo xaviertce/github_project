@@ -1,3 +1,4 @@
 this is the i file4 txt files
 after the merge from the code from new_github_project 
-i am doing the chnages
+i am doing the changes
+new line go to add this by pull requestgit add .
